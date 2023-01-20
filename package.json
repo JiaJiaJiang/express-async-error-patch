@@ -1,0 +1,21 @@
+{
+  "name": "express-async-error-patch",
+  "version": "1.0.0",
+  "description": "let express support async middleware error catch",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JiaJiaJiang/express-async-error-patch.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "async",
+    "promise",
+    "middleware"
+  ],
+  "author": "luojia@luojia.me",
+  "license": "MIT"
+}
